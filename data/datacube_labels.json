@@ -1,0 +1,857 @@
+{
+  "as1001rs": {
+    "as1001rs_rok": {
+      "label": "Rok",
+      "elements": {}
+    },
+    "as1001rs_ukaz": {
+      "label": "Ukazovateľ",
+      "elements": {
+        "UKAZ01": "Počet obyvateľov k 31. 12.",
+        "UKAZ02": "Počet obyvateľov vo veku predproduktívnom (0 - 14 rokov)",
+        "UKAZ03": "Počet obyvateľov vo veku produktívnom (15 - 64 rokov)",
+        "UKAZ04": "Počet obyvateľov vo veku poproduktívnom (65 a viac rokov)",
+        "UKAZ05": "Podiel obyvateľov vo veku predproduktívnom (0 - 14 rokov), %",
+        "UKAZ06": "Podiel obyvateľov vo veku produktívnom (15 - 64 rokov), %",
+        "UKAZ07": "Podiel obyvateľov vo veku poproduktívnom (65 a viac rokov), %",
+        "UKAZ08": "Počet obyvateľov v strednom veku (45 - 59 rokov)",
+        "UKAZ09": "Počet obyvateľov vo vyššom veku (60 - 74 rokov)",
+        "UKAZ10": "Počet obyvateľov vo vysokom veku (75 - 89 rokov)",
+        "UKAZ11": "Počet obyvateľov dlhovekých (90 a viac rokov)",
+        "UKAZ12": "Podiel obyvateľov v strednom veku (45 - 59 rokov), %",
+        "UKAZ13": "Podiel obyvateľov vo vyššom veku (60 - 74 rokov), %",
+        "UKAZ14": "Podiel obyvateľov vo vysokom veku (75 - 89 rokov), %",
+        "UKAZ15": "Podiel obyvateľov dlhovekých (90 a viac rokov), %",
+        "UKAZ16": "Priemerný vek obyvateľov, roky",
+        "UKAZ17": "Mediánový vek obyvateľov, roky",
+        "UKAZ18": "Index starnutia, %",
+        "UKAZ19": "Index ekonomického zaťaženia, %",
+        "UKAZ20": "Index ekonomickej závislosti starých ľudí, %",
+        "UKAZ21": "Stredná dĺžka života pri narodení, 0-roční, roky",
+        "UKAZ22": "Stredná dĺžka života pri narodení, 15-roční, roky",
+        "UKAZ23": "Stredná dĺžka života pri narodení, 45-roční, roky",
+        "UKAZ24": "Stredná dĺžka života, 60-roční, roky",
+        "UKAZ25": "Stredná dĺžka života, 75-roční, roky"
+      }
+    },
+    "as1001rs_poh": {
+      "label": "Pohlavie",
+      "elements": {
+        "TOTAL": "spolu",
+        "SEX_M": "muži",
+        "SEX_F": "ženy"
+      }
+    }
+  },
+  "as1012rs": {
+    "as1012rs_rok": {
+      "label": "Rok",
+      "elements": {}
+    },
+    "as1012rs_ukaz": {
+      "label": "Ukazovateľ",
+      "elements": {
+        "UKAZ01": "Používanie počítačov počas posledných 12 mesiacov",
+        "UKAZ02": "Používanie počítačov počas posledných 12 mesiacov - muži",
+        "UKAZ03": "Používanie počítačov počas posledných 12 mesiacov - ženy",
+        "UKAZ04": "Používanie počítačov počas posledných 3 mesiacov",
+        "UKAZ05": "Používanie počítačov počas posledných 3 mesiacov - muži",
+        "UKAZ06": "Používanie počítačov počas posledných 3 mesiacov - ženy",
+        "UKAZ07": "Počítač nikdy nepoužili",
+        "UKAZ08": "Počítač nikdy nepoužili - muži",
+        "UKAZ09": "Počítač nikdy nepoužili - ženy",
+        "UKAZ10": "Používanie internetu počas posledných 12 mesiacov",
+        "UKAZ11": "Používanie internetu počas posledných 12 mesiacov - muži",
+        "UKAZ12": "Používanie internetu počas posledných 12 mesiacov - ženy",
+        "UKAZ13": "Používanie internetu počas posledných 3 mesiacov",
+        "UKAZ14": "Používanie internetu počas posledných 3 mesiacov - muži",
+        "UKAZ15": "Používanie internetu počas posledných 3 mesiacov - ženy",
+        "UKAZ16": "Internet nikdy nepoužili",
+        "UKAZ17": "Internet nikdy nepoužili - muži",
+        "UKAZ18": "Internet nikdy nepoužili - ženy"
+      }
+    },
+    "as1012rs_vek": {
+      "label": "Vekové skupiny",
+      "elements": {
+        "AGE_Y45-54": "45 - 54",
+        "AGE_Y55-64": "55 - 64",
+        "AGE_Y65-74": "65 - 74",
+        "AGE_Y_GE75": "75+",
+        "AGE_Y55-74": "55 - 74"
+      }
+    }
+  },
+  "is1001rs": {
+    "is1001rs_rok": {
+      "label": "Rok",
+      "elements": {}
+    },
+    "is1001rs_ukaz": {
+      "label": "Ukazovateľ",
+      "elements": {
+        "UKAZ01": "Domácnosti, ktoré majú osobný počítač (v % z celkového počtu domácností)",
+        "UKAZ02": "Domácnosti, ktoré majú prístup na internet (v % z celkového počtu domácností)",
+        "UKAZ03": "Typ internetového pripojenia: DSL (napr. ADSL, SHDSL, VDSL)",
+        "UKAZ04": "Typ internetového pripojenia: pevné drôtové (rozvody káblovej televízie, optickými káblami, Ethernet, PLC)",
+        "UKAZ05": "Pevné širokopásmové pripojenie  (DSL, ADSL, VDSL, cez rozvody káblovej televízie, optickými káblami, satelit, WiFi)",
+        "UKAZ06": "pevné bezdrôtové (satelit, WiFi)",
+        "UKAZ07": "Typ internetového pripojenia: mobilné bezdrôtové pripojenie (min. 3G) cez handset",
+        "UKAZ08": "Typ internetového pripojenia: mobilné bezdrôtové pripojenie (min. 3G) cez kartu alebo USB",
+        "UKAZ09": "Mobilné širokopásmové pripojenie  (cez mobilnú sieť  najmenej 3G,  napr. UMTS, cez (SIM)kartu, USB kľúč, mobil alebo smartfón ako modem)",
+        "UKAZ10": "Dial-up alebo ISDN",
+        "UKAZ11": "Typ internetového pripojenia: mobilné úzkopásmové pripojenie (menej než 3G)"
+      }
+    },
+    "is1001rs_doma": {
+      "label": "Domácnosti",
+      "elements": {
+        "DOMA01": "Domácnosti spolu",
+        "DOMA02": "Domácnosť s jedným dospelým - bez detí",
+        "DOMA03": "Domácnosť s jedným dospelým - s deťmi",
+        "DOMA04": "Domácnosť s dvomi dospelými - bez detí",
+        "DOMA05": "Domácnosť s dvomi dospelými - s deťmi",
+        "DOMA06": "Domácnosť s tromi a viac dospelými - bez detí",
+        "DOMA07": "Domácnosť s tromi a viac dospelými - s deťmi"
+      }
+    }
+  },
+  "kz1001rs": {
+    "kz1001rs_rok": {
+      "label": "Rok",
+      "elements": {}
+    },
+    "kz1001rs_veks": {
+      "label": "Veková skupina",
+      "elements": {
+        "VEKS01": "Osoby spolu",
+        "VEKS02": "0-17",
+        "VEKS03": "18-24",
+        "VEKS04": "25-49",
+        "VEKS05": "50-64",
+        "VEKS06": "65+"
+      }
+    }
+  },
+  "kz1008rs": {
+    "kz1008rs_rok": {
+      "label": "Rok",
+      "elements": {}
+    },
+    "kz1008rs_typd": {
+      "label": "Typ domácnosti",
+      "elements": {
+        "TYPD01": "Osoby spolu",
+        "TYPD02": "Jednotlivec",
+        "TYPD03": "Jednotlivec so závislými deťmi",
+        "TYPD04": "Dvaja dospelí",
+        "TYPD05": "Dvaja dospelí s 1 závislým dieťaťom",
+        "TYPD06": "Dvaja dospelí s 2 závislými deťmi",
+        "TYPD07": "Dvaja dospelí s 3 alebo viac závislými deťmi",
+        "TYPD08": "Domácnosti bez závislých detí",
+        "TYPD09": "Domácnosti so závislými deťmi"
+      }
+    }
+  },
+  "kz1018rs": {
+    "kz1018rs_rok": {
+      "label": "Rok",
+      "elements": {}
+    },
+    "kz1018rs_pohl": {
+      "label": "Pohlavie",
+      "elements": {
+        "POHL1": "Osoby spolu",
+        "POHL2": "Muži",
+        "POHL3": "Ženy"
+      }
+    },
+    "kz1018rs_vek": {
+      "label": "Veková skupina",
+      "elements": {
+        "VEK01": "15-64",
+        "VEK02": "15-24",
+        "VEK03": "25-54",
+        "VEK04": "55-64"
+      }
+    }
+  },
+  "kz1024rs": {
+    "kz1024rs_rok": {
+      "label": "Rok",
+      "elements": {}
+    },
+    "kz1024rs_frek": {
+      "label": "Frekvencia",
+      "elements": {
+        "FREK01": "Frekvencia stretnutí s príbuznými",
+        "FREK02": "Frekvencia stretnutí s priateľmi"
+      }
+    },
+    "kz1024rs_ukaz": {
+      "label": "Ukazovateľ",
+      "elements": {
+        "UKAZ01": "Denne",
+        "UKAZ02": "Každý týždeň",
+        "UKAZ03": "Niekoľkokrát za mesiac",
+        "UKAZ04": "Raz za mesiac",
+        "UKAZ05": "Aspoň raz za rok (menej ako raz za mesiac)",
+        "UKAZ06": "Nikdy"
+      }
+    }
+  },
+  "kz1028rs": {
+    "kz1028rs_rok": {
+      "label": "Rok",
+      "elements": {}
+    },
+    "kz1028rs_ukaz": {
+      "label": "Ukazovateľ",
+      "elements": {
+        "UKAZ01": "Osoby spolu (16+)",
+        "UKAZ02": "Muži  (16+)",
+        "UKAZ03": "Ženy (16+)",
+        "UKAZ04": "16-24",
+        "UKAZ05": "25-34",
+        "UKAZ06": "35-49",
+        "UKAZ07": "50-64",
+        "UKAZ08": "65-74",
+        "UKAZ09": "75+"
+      }
+    }
+  },
+  "kz1029rs": {
+    "kz1029rs_rok": {
+      "label": "Rok",
+      "elements": {}
+    },
+    "kz1029rs_ukaz": {
+      "label": "Ukazovateľ",
+      "elements": {
+        "UKAZ01": "Osoby spolu (16+)",
+        "UKAZ02": "Muži  (16+)",
+        "UKAZ03": "Ženy (16+)",
+        "UKAZ04": "16-24",
+        "UKAZ05": "25-34",
+        "UKAZ06": "35-49",
+        "UKAZ07": "50-64",
+        "UKAZ08": "65-74",
+        "UKAZ09": "75+"
+      }
+    }
+  },
+  "kz1030rs": {
+    "kz1030rs_rok": {
+      "label": "Rok",
+      "elements": {}
+    },
+    "kz1030rs_vzd": {
+      "label": "Vzdelanie",
+      "elements": {
+        "VZD01": "Predprimárne, primárne a nižšie sekundárne vzdelanie (stupne 0-2)",
+        "VZD02": "Vyššie sekundárne a postsekundárne vzdelanie (stupne 3-4)",
+        "VZD03": "Terciárne vzdelanie (stupne 5-8)"
+      }
+    },
+    "kz1030rs_pohl": {
+      "label": "Pohlavie",
+      "elements": {
+        "POHL1": "Osoby spolu (15-64)",
+        "POHL2": "Muži (15-64)",
+        "POHL3": "Ženy (15-64)"
+      }
+    }
+  },
+  "np3101rr": {
+    "nuts13": {
+      "label": "0 SR + Oblasti + Kraje",
+      "elements": {
+        "SK0": "Slovenská republika",
+        "SK01": "Bratislavský kraj (NUTS2)",
+        "SK010": "Bratislavský kraj",
+        "SK02": "Západné Slovensko",
+        "SK021": "Trnavský kraj",
+        "SK022": "Trenčiansky kraj",
+        "SK023": "Nitriansky kraj",
+        "SK03": "Stredné Slovensko",
+        "SK031": "Žilinský kraj",
+        "SK032": "Banskobystrický kraj",
+        "SK04": "Východné Slovensko",
+        "SK041": "Prešovský kraj",
+        "SK042": "Košický kraj"
+      }
+    },
+    "np3101rr_rok": {
+      "label": "Rok",
+      "elements": {}
+    },
+    "np3101rr_ukaz": {
+      "label": "Ukazovateľ",
+      "elements": {
+        "E_PRIEM_HR_MZDA": "Priemerná hrubá nominálna mesačná mzda (Eur)"
+      }
+    },
+    "np3101rr_dim1": {
+      "label": "Vek - 5-ročné skupiny",
+      "elements": {
+        "1": "Spolu",
+        "2": "do 19 rokov",
+        "3": "od 20 do 24 rokov",
+        "4": "od 25 do 29 rokov",
+        "5": "od 30 do 34 rokov",
+        "6": "od 35 do 39 rokov",
+        "7": "od 40 do 44 rokov",
+        "8": "od 45 do 49 rokov",
+        "9": "od 50 do 54 rokov",
+        "10": "od 55 do 59 rokov",
+        "11": "60 a viac rokov"
+      }
+    }
+  },
+  "np3102rr": {
+    "nuts13": {
+      "label": "0 SR + Oblasti + Kraje",
+      "elements": {
+        "SK0": "Slovenská republika",
+        "SK01": "Bratislavský kraj (NUTS2)",
+        "SK010": "Bratislavský kraj",
+        "SK02": "Západné Slovensko",
+        "SK021": "Trnavský kraj",
+        "SK022": "Trenčiansky kraj",
+        "SK023": "Nitriansky kraj",
+        "SK03": "Stredné Slovensko",
+        "SK031": "Žilinský kraj",
+        "SK032": "Banskobystrický kraj",
+        "SK04": "Východné Slovensko",
+        "SK041": "Prešovský kraj",
+        "SK042": "Košický kraj"
+      }
+    },
+    "np3102rr_rok": {
+      "label": "Rok",
+      "elements": {}
+    },
+    "np3102rr_ukaz": {
+      "label": "Ukazovateľ",
+      "elements": {
+        "E_PRIEM_HR_MZDA": "Priemerná hrubá nominálna mesačná mzda (Eur)"
+      }
+    },
+    "np3102rr_dim1": {
+      "label": "Najvyššie skončené vzdelanie",
+      "elements": {
+        "1": "Spolu",
+        "2": "Neuvedené",
+        "3": "Základné",
+        "4": "Učňovské (bez maturity)",
+        "5": "Stredné (bez maturity)",
+        "13": "Stredné odborné (učňovské) bez maturity",
+        "6": "Úplné stredné odborné (učňovské) s maturitou",
+        "7": "Úplné stredné všeobecné",
+        "8": "Úplné stredné odborné",
+        "9": "Vyššie odborné",
+        "10": "Vysokoškolské 1. stupeň",
+        "11": "Vysokoškolské 2. stupeň",
+        "12": "Vysokoškolské 3. stupeň"
+      }
+    }
+  },
+  "np3106rr": {
+    "nuts13": {
+      "label": "0 SR + Oblasti + Kraje",
+      "elements": {
+        "SK0": "Slovenská republika",
+        "SK01": "Bratislavský kraj (NUTS2)",
+        "SK010": "Bratislavský kraj",
+        "SK02": "Západné Slovensko",
+        "SK021": "Trnavský kraj",
+        "SK022": "Trenčiansky kraj",
+        "SK023": "Nitriansky kraj",
+        "SK03": "Stredné Slovensko",
+        "SK031": "Žilinský kraj",
+        "SK032": "Banskobystrický kraj",
+        "SK04": "Východné Slovensko",
+        "SK041": "Prešovský kraj",
+        "SK042": "Košický kraj"
+      }
+    },
+    "np3106rr_rok": {
+      "label": "Rok",
+      "elements": {}
+    },
+    "np3106rr_ukaz": {
+      "label": "Ukazovateľ",
+      "elements": {
+        "E_PRIEM_HR_MZDA": "Priemerná hrubá nominálna mesačná mzda (Eur)"
+      }
+    },
+    "np3106rr_dim1": {
+      "label": "Klasifikácia zamestnaní (SKISCO-08) - triedy",
+      "elements": {
+        "10": "Spolu",
+        "1": "Zákonodarcovia, riadiaci pracovníci",
+        "2": "Špecialisti",
+        "3": "Technici a odborní pracovníci",
+        "4": "Administratívni pracovníci",
+        "5": "Pracovníci v službách a obchode",
+        "6": "Kvalifikovaní pracovníci v poľnohospodárstve, lesníctve a rybárstve",
+        "7": "Kvalifikovaní pracovníci a remeselníci",
+        "8": "Operátori a montéri strojov a zariadení",
+        "9": "Pomocní a nekvalifikovaní pracovníci",
+        "0": "Príslušníci ozbrojených síl"
+      }
+    }
+  },
+  "nu1024rs": {
+    "nu1024rs_rok": {
+      "label": "Rok",
+      "elements": {}
+    },
+    "nu1024rs_ukaz": {
+      "label": "Ukazovateľ",
+      "elements": {
+        "UKAZ01": "Počet obyvateľov (1)",
+        "UKAZ02": "Ekonomicky aktívne obyvateľstvo (2=3+4)",
+        "UKAZ03": "Nezamestnané osoby (3)",
+        "UKAZ04": "Zamestnané osoby - spolu (4=5+6)",
+        "UKAZ05": "Zamestnané osoby - zamestnanci (5)",
+        "UKAZ06": "Zamestnané osoby - samostatne zárobkovo činní (6)"
+      }
+    }
+  },
+  "od0008ms": {
+    "od0008ms_year": {
+      "label": "Rok",
+      "elements": {}
+    },
+    "od0008ms_month": {
+      "label": "Mesiac",
+      "elements": {}
+    },
+    "od0008ms_specu": {
+      "label": "Špecifikácia mernej jednotky",
+      "elements": {
+        "SPECU_ABVAL": "absolútna hodnota"
+      }
+    },
+    "od0008ms_nace2": {
+      "label": "SK NACE Rev. 2",
+      "elements": {
+        "NACE01": "Priemysel spolu",
+        "NACE02": "v tom: ťažba a dobývanie",
+        "NACE03": "priemyselná výroba",
+        "NACE04": "dodávka elektriny, plynu, pary a studeného vzduchu",
+        "NACE05": "dodávka vody; čistenie a odvod odpadových vôd",
+        "NACE06": "Stavebníctvo",
+        "NACE07": "Predaj a oprava motor. vozidiel",
+        "NACE08": "Veľkoobchod, okrem motorových vozidiel",
+        "NACE09": "Maloobchod, okrem motorových vozidiel",
+        "NACE10": "Ubytovanie",
+        "NACE11": "Činnosti reštaurácií a pohostinstiev",
+        "NACE12": "Doprava a skladovanie",
+        "NACE13": "z toho: poštové služby a služby kuriérov",
+        "NACE14": "Informácie a komunikácia",
+        "NACE15": "Vybrané trhové služby"
+      }
+    },
+    "od0008ms_unit": {
+      "label": "Merná jednotka",
+      "elements": {
+        "UNIT_EUR": "EUR"
+      }
+    },
+    "od0008ms_indic": {
+      "label": "Ukazovateľ",
+      "elements": {
+        "U_NP_0001": "Priemerná mesačná mzda"
+      }
+    }
+  },
+  "og1007rs": {
+    "og1007rs_rok": {
+      "label": "Rok",
+      "elements": {}
+    },
+    "og1007rs_ukaz": {
+      "label": "Počet zamestnancov",
+      "elements": {
+        "UKAZ01": "Počet zamestnancov: 0 - 49",
+        "UKAZ03": "Počet zamestnancov: 50 - 249",
+        "UKAZ04": "Počet zamestnancov: 250 a viac",
+        "UKAZ07": "Spolu počet zamestnancov 1)"
+      }
+    },
+    "og1007rs_form": {
+      "label": "Právna forma",
+      "elements": {
+        "FORM01": "Spolu subjekty podľa právnej formy",
+        "FORM02": "Akciové spoločnosti",
+        "FORM03": "Spoločnosti s ručením obmedzeným",
+        "FORM04": "Ostatné obchodné spoločnosti",
+        "FORM05": "Družstvá",
+        "FORM06": "Štátne podniky",
+        "FORM07": "Príspevkové organizácie",
+        "FORM08": "Rozpočtové organizácie",
+        "FORM09": "Živnostníci",
+        "FORM12": "Ostatné právne formy",
+        "FORM13": "Fyzické osoby - podnikatelia spolu"
+      }
+    }
+  },
+  "og2019qs": {
+    "og2019qs_rok": {
+      "label": "Rok",
+      "elements": {}
+    },
+    "og2019qs_stv": {
+      "label": "Štvrťrok",
+      "elements": {}
+    },
+    "og2019qs_ukaz": {
+      "label": "Právna forma",
+      "elements": {
+        "05frm00": "Subjekty SR úhrnom",
+        "05frm01": "Právnické osoby spolu",
+        "05frm02": "Podniky spolu",
+        "05frm03": "Obchodné spoločnosti",
+        "05frm04": "Akciové spoločnosti",
+        "05frm05": "Spol. s r.o.",
+        "05frm06": "Družstvá",
+        "05frm07": "Štátne podniky",
+        "05frm08": "Obecné podniky",
+        "05frm09": "Zahraničné osoby",
+        "05frm11": "FO-podnikatelia zap. v OR",
+        "05frm12": "Neziskové inštitúcie",
+        "05frm13": "Rozpočtové organizácie",
+        "05frm14": "Príspevkové organizácie",
+        "05frm15": "Ostatné neziskové inštitúcie",
+        "05frm16": "Fyzické os.-podnikatelia spolu",
+        "05frm17": "Živnostníci"
+      }
+    }
+  },
+  "og2021qs": {
+    "og2021qs_rok": {
+      "label": "Rok",
+      "elements": {}
+    },
+    "og2021qs_stv": {
+      "label": "Štvrťrok",
+      "elements": {}
+    },
+    "og2021qs_form": {
+      "label": "Právna forma",
+      "elements": {
+        "05frm00": "Subjekty SR úhrnom",
+        "05frm010": "Podnikateľské subjekty",
+        "05frm011": "Podniky",
+        "05frm0120": "Fyzické os.- podnikatelia spolu",
+        "05frm0121": "Živnostníci",
+        "05frm12": "Neziskové inštitúcie"
+      }
+    },
+    "og2021qs_nace2": {
+      "label": "Druh ekonomickej činnosti",
+      "elements": {
+        "nace1": "Hospodárstvo SR úhrnom",
+        "nace2AA": "AA Poľnohospodárstvo, lesníctvo a rybolov",
+        "nace2BA": "BA Ťažba a dobývanie",
+        "nace2C": "C Priemyselná výroba",
+        "nace2CA": "CA Výroba potravín, nápojov a tabakových výrobkov",
+        "nace2CB": "CB Výroba textilu, odevov, kože a kožených výrobkov",
+        "nace2CC": "CC Výroba drevených a papierových výrobkov, tlač",
+        "nace2CD": "CD Výroba koksu a rafinovaných ropných produktov",
+        "nace2CE": "CE Výroba chemikálií a chemických produktov",
+        "nace2CF": "CF Výroba základných farmaceutických výrobkov a farmaceutických prípravkov",
+        "nace2CG": "CG Výroba výrobkov z gumy a plastu a ostatných nekovových minerálnych výrobkov",
+        "nace2CH": "CH Výroba kovov a kovových konštrukcií okrem strojov a zariadení",
+        "nace2CI": "CI Výroba počítačových, elektronických a optických výrobkov",
+        "nace2CJ": "CJ Výroba elektrických zariadení",
+        "nace2CK": "CK Výroba strojov a zariadení inde nezaradených",
+        "nace2CL": "CL Výroba dopravných prostriedkov",
+        "nace2CM": "CM Ostatná výroba, oprava a inštalácia strojov a zariadení",
+        "nace2DA": "DA Dodávka elektriny, plynu a studeného vzduchu",
+        "nace2EA": "EA Dodávka vody,čistenie a odvod odpad.vôd,odpady",
+        "nace2FA": "FA Stavebníctvo",
+        "nace2GA": "GA Veľkoobchod a maloobchod; oprava motorových vozidiel a motocyklov",
+        "nace2HA": "HA Doprava a skladovanie",
+        "nace2IA": "IA Ubytovacie a stravovacie služby",
+        "nace2JA": "JA Nakladateľské, audiovizuálne a rozhlasové činnosti",
+        "nace2JB": "JB Telekomunikácie",
+        "nace2JC": "JC IT a ostatné informačné služby",
+        "nace2KA": "KA Finančné a poisťovacie činnosti",
+        "nace2LA": "LA Činnosti v oblasti nehnuteľností",
+        "nace2MA": "MA Právne a účtovnícke činnosti",
+        "nace2MB": "MB Vedecký výskum a vývoj",
+        "nace2MC": "MC Ostatné odborné, vedecké a technické činnosti",
+        "nace2NA": "NA Administratívne a podporné služby",
+        "nace2OA": "OA Verejná správa a obrana; povinné sociálne zabezpečenie",
+        "nace2PA": "PA Vzdelávanie",
+        "nace2QA": "QA Zdravotníctvo",
+        "nace2QB": "QB Rezidenčná starostlivosť a sociálna práca",
+        "nace2RA": "RA Umenie, zábava a rekreácia",
+        "nace2SA": "SA Ostatné činnosti",
+        "nace2ZZ": "ZZ Ostatné aktivity"
+      }
+    }
+  },
+  "om3707rr": {
+    "om3707rr_uzemieua": {
+      "label": "Územie",
+      "elements": {
+        "SK0": "Slovenská republika",
+        "SK_CAP": "Bratislava",
+        "SK0422_0425": "Košice",
+        "SK0321508438": "Banská Bystrica",
+        "SK0233500011": "Nitra",
+        "SK0417524140": "Prešov",
+        "SK031B517402": "Žilina",
+        "SK0217506745": "Trnava",
+        "SK0229505820": "Trenčín"
+      }
+    },
+    "om3707rr_rok": {
+      "label": "Rok",
+      "elements": {}
+    },
+    "om3707rr_fermor": {
+      "label": "Ukazovateľ",
+      "elements": {
+        "FERMOR_SOBAS": "Sobáše",
+        "FERMOR_ROZVOD": "Rozvody",
+        "FERMOR_ZIVONARDROK": "Živonarodené deti za rok",
+        "FERMOR_ZIVONARDMATDO19": "Živonarodené deti matkám vo veku do 19 rokov",
+        "FERMOR_HRMIERZIV": "Hrubá miera živorodenosti (promile)",
+        "FERMOR_PRVEKZIV": "Priemerný vek živorodičky - prvorodičky (roky)",
+        "FERMOR_ZOMRROK": "Zomretí za rok",
+        "FERMOR_ZOMRMUZIROK": "Zomretí za rok, muži",
+        "FERMOR_ZOMRZENYROK": "Zomretí za rok, ženy",
+        "FERMOR_HRMIERUMR": "Hrubá miera úmrtnosti (promile)",
+        "FERMOR_DOJCUMRTROK": "Dojčenská úmrtnosť za rok",
+        "FERMOR_MIERDOJUMR": "Miera dojčenskej úmrtnosti (promile)",
+        "FERMOR_ZOMRDO65": "Zomretí vo veku do 65 rokov",
+        "FERMOR_ZOMRDO65MUZI": "Zomretí vo veku do 65 rokov, muži",
+        "FERMOR_ZOMRDO65ZENY": "Zomretí vo veku do 65 rokov, ženy",
+        "FERMOR_ZOMRDO65OBEHDYCH": "Zomretí vo veku do 65 rokov na choroby obehovej alebo dýchacej sústavy"
+      }
+    }
+  },
+  "sv3701rr": {
+    "sv3701rr_uzemieua": {
+      "label": "Územie",
+      "elements": {
+        "SK0": "Slovenská republika",
+        "SK_CAP": "Bratislava",
+        "SK0422_0425": "Košice",
+        "SK0321508438": "Banská Bystrica",
+        "SK0233500011": "Nitra",
+        "SK0417524140": "Prešov",
+        "SK031B517402": "Žilina",
+        "SK0217506745": "Trnava",
+        "SK0229505820": "Trenčín"
+      }
+    },
+    "sv3701rr_rok": {
+      "label": "Rok",
+      "elements": {}
+    },
+    "sv3701rr_poh": {
+      "label": "Pohlavie",
+      "elements": {
+        "TOTAL": "Muži a ženy spolu",
+        "SEX_M": "Muži",
+        "SEX_F": "Ženy"
+      }
+    },
+    "sv3701rr_vzdel": {
+      "label": "Ukazovateľ",
+      "elements": {
+        "VZDEL_0_4": "Deti do 4 rokov v predškolských zariadeniach",
+        "VZDEL_0_4_INDEX": "Deti do 4 rokov v predškolských zariadeniach, index romr = 100",
+        "VZDEL_0_4_1000": "Deti do 4 rokov v predškolských zariadeniach na 1000 detí do 4 rokov",
+        "VZDEL_VS": "Študenti vysokoškolského vzdelávania",
+        "VZDEL_VS_INDEX": "Študenti vysokoškolského vzdelávania, index romr = 100",
+        "VZDEL_VS_1000": "Študenti vysokoškolského vzdelávania na 1000 obyvateľov"
+      }
+    }
+  },
+  "vt0003rs": {
+    "vt0003rs_rok": {
+      "label": "Rok",
+      "elements": {}
+    },
+    "vt0003rs_ukaz": {
+      "label": "Ukazovateľ",
+      "elements": {
+        "UKAZ01": "z celkového počtu podnikov v priemysle a vybraných službách",
+        "UKAZ02": "malé podniky (10-49 zamestnancov)",
+        "UKAZ03": "stredné podniky (50-249 zamestnancov)",
+        "UKAZ04": "veľké podniky (250 a viac zamestnancov)",
+        "UKAZ05": "z celkových tržieb v inovujúcich podnikoch v priemysle a vybraných službách v %",
+        "UKAZ06": "vnútorný výskum a vývoj (VV)",
+        "UKAZ07": "zaobstaranie výskumu a vývoja (vonkajší VV)",
+        "UKAZ08": "zaobstaranie strojov, zariadení, softvéru a budov",
+        "UKAZ09": "zaobstaranie ostatných vonkajších znalostí",
+        "UKAZ10": "výdavky na prípravnú fázu produkcie a uvedenie na trh",
+        "UKAZ11": "výdavky na všetky ostatné inovačné aktivity",
+        "UKAZ12": "výdavky na vlastný personál pracujúci na inovačných aktivitách",
+        "UKAZ13": "výdavky na služby a materiál určené pre inovačné aktivity"
+      }
+    },
+    "vt0003rs_pod": {
+      "label": "Podiely na inovácie",
+      "elements": {
+        "POD01": "Podiel podnikov s inovačnou aktivitou",
+        "POD02": "Podiel výdavkov na inovácie",
+        "POD03": "Štruktúra výdavkov na inovácie (v inovujúcich podnikoch v priemysle a službách v %)"
+      }
+    }
+  },
+  "vt1002rs": {
+    "vt1002rs_rok": {
+      "label": "Rok",
+      "elements": {}
+    },
+    "vt1002rs_ukaz": {
+      "label": "Ukazovateľ",
+      "elements": {
+        "UKAZ01": "Vnútorný výskum a vývoj",
+        "UKAZ02": "Vonkajší výskum a vývoj",
+        "UKAZ03": "Zaobstaranie strojov, zariadení, softvéru a budov",
+        "UKAZ04": "Zaobstaranie ostatných vonkajších znalostí",
+        "UKAZ05": "Prípravná fáza produkcie a uvedenie na trh",
+        "UKAZ06": "Všetky ostatné inovačné aktivity",
+        "UKAZ07": "Výdavky na vlastný personál pracujúci na inovačných aktivitách",
+        "UKAZ08": "Výdavky na služby a materiál určené pre inovačné aktivity"
+      }
+    }
+  },
+  "vt1003rs": {
+    "vt1003rs_rok": {
+      "label": "Rok",
+      "elements": {}
+    },
+    "vt1003rs_ukaz": {
+      "label": "Ukazovateľ",
+      "elements": {
+        "UKAZ01": "Spracovateľský priemysel spolu",
+        "UKAZ02": "v tom: vysoká technológia",
+        "UKAZ03": "stredne vysoká technológia",
+        "UKAZ04": "stredne nízka technológia",
+        "UKAZ05": "nízka technológia",
+        "UKAZ06": "Služby spolu",
+        "UKAZ07": "z toho: znalostne intenzívne služby s vysokou technológiou*)"
+      }
+    },
+    "vt1003rs_tech": {
+      "label": "Technologické sektory",
+      "elements": {
+        "TECH01": "Spracovateľský priemysel",
+        "TECH02": "Služby"
+      }
+    }
+  },
+  "vt1008rs": {
+    "vt1008rs_rok": {
+      "label": "Rok",
+      "elements": {}
+    },
+    "vt1008rs_ukaz": {
+      "label": "Ukazovateľ",
+      "elements": {
+        "UKAZ01": "Podnikateľský sektor",
+        "UKAZ02": "Štátny (vládny) sektor",
+        "UKAZ03": "Sektor vysokých škôl",
+        "UKAZ04": "Súkromný neziskový sektor",
+        "UKAZ05": "Podnikateľský zdroj",
+        "UKAZ06": "Štátny (vládny) zdroj",
+        "UKAZ07": "Ostatné národné zdroje",
+        "UKAZ08": "Zahraničné zdroje",
+        "UKAZ09": "Prírodné vedy",
+        "UKAZ10": "Technické vedy",
+        "UKAZ11": "Lekárske a zdravotnícke vedy",
+        "UKAZ12": "Pôdohospodárske a veterinárske vedy",
+        "UKAZ13": "Spoločenské vedy",
+        "UKAZ14": "Humanitné vedy a vedy o umení",
+        "UKAZ15": "Základný výskum",
+        "UKAZ16": "Aplikovaný výskum",
+        "UKAZ17": "Vývoj"
+      }
+    },
+    "vt1008rs_area": {
+      "label": "Oblasť",
+      "elements": {
+        "AREA01": "Podľa sektorov",
+        "AREA02": "Podľa zdrojov financovania",
+        "AREA03": "Podľa vedných oblastí",
+        "AREA04": "Podľa činností výskumu a vývoja"
+      }
+    }
+  },
+  "vt1009rs": {
+    "vt1009rs_rok": {
+      "label": "Rok",
+      "elements": {}
+    },
+    "vt1009rs_ukaz": {
+      "label": "Ukazovateľ",
+      "elements": {
+        "UKAZ01": "Výskumníci",
+        "UKAZ02": "Technici a ekvivalentný personál",
+        "UKAZ03": "Pomocný personál",
+        "UKAZ04": "S vysokoškolskou a vyššou kvalifikáciou",
+        "UKAZ05": "v tom: s VŠ vzdelaním 1. stupňa",
+        "UKAZ06": "s VŠ vzdelaním 2. stupňa",
+        "UKAZ07": "s VŠ vzdelaním 3. stupňa (PhD., CSc., Dr., DrSc., doc., prof.)",
+        "UKAZ08": "S vyšším odborným vzdelaním",
+        "UKAZ09": "So stredoškolským vzdelaním",
+        "UKAZ10": "So základným vzdelaním"
+      }
+    },
+    "vt1009rs_area": {
+      "label": "Oblasť",
+      "elements": {
+        "AREA01": "Zamestnanci VV podľa pracovného zaradenia 1)",
+        "AREA02": "Zamestnanci VV podľa kvalifikácie 1)"
+      }
+    }
+  },
+  "vt1011rs": {
+    "vt1011rs_rok": {
+      "label": "Rok",
+      "elements": {}
+    },
+    "vt1011rs_ukaz": {
+      "label": "Druh inovačnej činnosti",
+      "elements": {
+        "UKAZ01": "Podniky s inovačnou aktivitou",
+        "UKAZ02": "Technologické inovácie",
+        "UKAZ03": "Úspešné inovácie",
+        "UKAZ04": "Inovácie produktu",
+        "UKAZ05": "Inovácie podnikového procesu",
+        "UKAZ06": "Inovácie produktu a procesu",
+        "UKAZ07": "Nedokončené a (alebo) zastavené inovačné aktivity",
+        "UKAZ08": "Netechnologické inovácie",
+        "UKAZ09": "Podniky bez inovačnej aktivity",
+        "UKAZ071": "Dokončené inovačné aktivity nezavedené do praxe"
+      }
+    },
+    "vt1011rs_velk": {
+      "label": "Veľkostná skupina podnikov",
+      "elements": {
+        "VELK01": "podniky spolu",
+        "VELK02": "malé podniky",
+        "VELK03": "stredné podniky",
+        "VELK04": "veľké podniky"
+      }
+    },
+    "vt1011rs_tech": {
+      "label": "Podniky",
+      "elements": {
+        "TECH01": "Podniky spolu",
+        "TECH02": "Priemysel",
+        "TECH03": "Služby"
+      }
+    }
+  }
+}
